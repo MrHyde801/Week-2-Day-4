@@ -1,0 +1,26 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+   margin: 5px;
+}
+body {
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+    width: 300px;
+    font-family: 'Nova Flat', cursive;
+    border-radius: 5px;
+}
+input {
+    margin: 5px;
+    border:1px solid lightgray; 
+}
+.submit{
+    margin: 10px;
+    padding: 10px;
+}
+input[type=submit] {
+    border: 10px;
+    padding: 0px 110px; 
+    border:1px solid lightgray; 
+    background-color: white;
+    border-radius: 5px;
+    }
